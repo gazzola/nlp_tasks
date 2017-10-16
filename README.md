@@ -1,6 +1,6 @@
 # Tarefas de processamento de linguagem natural e referências selecionadas
 
-Eu tenho trabalhado em várias tarefas de processamento de linguagem natural há muito tempo. Um dia, pensei como desenhar um mapa do campo da PLN onde ganhei a vida. Tenho certeza de que não sou a única pessoa que quer ver de relance quais tarefas estão em PLN.
+Eu tenho trabalhado em várias tarefas de processamento de linguagem natural há muito pouco tempo. Um dia, pensei como desenhar um mapa do campo da PLN para facilitar a vida das outras pessoas que também estão iniciando nesta área, como eu. Tenho certeza de que não sou a única pessoa que quer ver de relance quais tarefas estão em PLN.
 
 Eu fiz o meu melhor para cobrir o máximo possível de tarefas na PLN, mas é certo que isso está longe de ser exaustivo, puramente devido à minha falta de conhecimento. E as referências selecionadas são tendenciosas para as recentes realizações de aprendizado profundo. Espero que estes sirvam como ponto de partida quando você está prestes a ir no fundo nesta tarefa. Eu continuarei atualizando esse repositrio, mas o que eu realmente espero seja você colaborar neste trabalho. Não hesite em me enviar uma solicitação de push no repo!
 
