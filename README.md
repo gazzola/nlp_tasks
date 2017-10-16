@@ -1,11 +1,9 @@
-# Natural Language Processing Tasks and Selected References
+# Tarefas de processamento de linguagem natural e referências selecionadas
 
-I've been working on several natural language processing tasks for a long time. One day, I felt like to draw a map of the NLP field where I earn a living. I'm sure I'm not the only person who wants to see at a glance which tasks are in NLP.
+Eu tenho trabalhado em várias tarefas de processamento de linguagem natural há muito tempo. Um dia, pensei como desenhar um mapa do campo da PLN onde ganhei a vida. Tenho certeza de que não sou a única pessoa que quer ver de relance quais tarefas estão em PLN.
 
-I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge. And selected references are biased towards recent deep learning accomplishments. I expect these serve as a starting point when you're about to dig into the task. I'll keep updating this repo myself, but what I really hope is you collaborate on this work. Don't hesitate to send me a pull request!
+Eu fiz o meu melhor para cobrir o máximo possível de tarefas na PLN, mas é certo que isso está longe de ser exaustivo, puramente devido à minha falta de conhecimento. E as referências selecionadas são tendenciosas para as recentes realizações de aprendizado profundo. Espero que estes sirvam como ponto de partida quando você está prestes a ir no fundo nesta tarefa. Eu continuarei atualizando esse repositrio, mas o que eu realmente espero seja você colaborar neste trabalho. Não hesite em me enviar uma solicitação de push no repo!
 
-Oct. 13, 2017.<br/>
-by Kyubyong
 
 ## Anaphora Resolution
   * See [Coreference Resolution](#coreference-resolution)
